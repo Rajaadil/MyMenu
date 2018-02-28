@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/about_item"
+    android:title="About us"
+    >
+</item>
+
+    <item
+        android:id="@+id/setting_item"
+        android:title="Setting"
+        >
+
+    </item>
+
+    <item android:title="Sort"
+        android:id="@+id/Sort_item"
+        >
+
+    </item>
+    <item android:id="@+id/Galaxy_item"
+        android:title="Galaxy essential"
+        >
+    </item>
+
+<item android:id="@+id/New_item"
+android:title="New tab"
+    >
+</item>
+    <item android:id="@+id/Book_item"
+        android:title="Bookmarks"
+        >
+    </item>
+    <item android:id="@+id/REcent_itemt"
+        android:title="Recent tab"
+        >
+    </item>
+    <item android:id="@+id/Share_item"
+        android:title="Share"
+        >
+    </item>
+</menu>
